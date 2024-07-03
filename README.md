@@ -62,7 +62,6 @@ bash
 git clone https://github.com/Keshiiika/sementic_segmentation_drone_images.git
 cd semantic-segmentation-drone-images
 
-
 2. Download the Semantic Drone Dataset and place it in the appropriate directory.
 
 3. Run the Jupyter Notebook semantic_segmentation.ipynb to preprocess the data, train the U-Net model, and generate segmentation masks.
