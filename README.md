@@ -59,7 +59,7 @@ For person detection, the dataset includes bounding box annotations for both the
 1. Clone the repository:
 
 bash
-git clone https://github.com/Keshiiika/sementic_segmentation_drone_images.git
+git clone [https://github.com/Honey1707/sementic_segmentation_drone_images.git](https://github.com/Honey1707/sementic_segmentation_drone_images)
 cd semantic-segmentation-drone-images
 
 2. Download the Semantic Drone Dataset and place it in the appropriate directory.
